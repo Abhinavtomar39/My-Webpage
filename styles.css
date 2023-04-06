@@ -1,0 +1,214 @@
+.intro{
+    background-color: #eaf6f6;
+    position:relative;
+    width: 100%;
+    height: 600px;
+    margin-left:0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-right: 0;
+}
+body{
+    text-align: center;
+    margin:0%;
+    font-family: 'Montserrat', sans-serif;
+    font-size:1rem;
+    font-weight:bold;
+}
+h1{
+    position:absolute;
+    margin-left: 400px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5em;
+    color:#66BFBF;
+    line-height: 2;
+}
+.top-cloud{
+   position:absolute;
+   top: 40px;
+   right: 300px;
+
+}
+.bottom-cloud{
+    position: absolute;
+    top: 250px;
+    left:300px;
+}
+.subtext{
+    position: absolute;
+    margin-left:520px;
+    margin-top:200px;
+    color:#66BFBF;
+    font-weight: normal;
+    
+}
+
+h2{position: absolute;
+    margin-left:500px;
+    color:#66BFBF;
+    font-weight: bold;
+}
+.mountain{
+    position:absolute;
+    bottom:0%;
+    right:350px;
+}
+h3{
+    color: #11999E;
+    font-weight: bold;
+}
+
+a{
+    color:#11999E;
+}
+.skill-row{
+    width:50%;
+    padding-top: 200px;
+    padding-left:50px;
+    text-align: left;
+    line-height: 2;
+}
+.photo{
+    width: 200px;
+    margin-top: 20px;
+    padding-top:20px;
+    
+}
+.middle-container{
+    margin:100px,auto,100px,auto;
+}
+.dumbbell{
+    width:25%;
+    float:left;
+    margin-left: 30px;
+}
+.computer{
+    width:25%;
+    float:left;
+    margin-right: 30px;
+    
+}
+.Skill-heading{
+    padding-left: 80px;
+    font-size:2em;
+    margin-top:10px;
+    margin-left:470px;
+    padding-top:60px;
+
+   
+}
+span{
+    font-weight: bold;
+}
+
+.Hello{
+    position: absolute;
+    padding-left: 70px;
+    margin-top: 10px;
+    color:#66BFBF;
+    font-weight: normal;
+    font-size: 2.5em;
+
+}
+p{
+    padding-top: 100px;
+    padding-bottom:180px;
+    color:#40514E;
+    line-height: 2;
+}
+.skill-row1{
+    width:50%;
+    padding-left:580px;
+    text-align: right;
+    line-height: 2;
+}
+.strength-training{
+    padding-right: 230px;
+    padding-top:40px;
+}
+.strength-training-description{
+    padding-top:120px;
+    text-align: left;
+    padding-left:50px;
+}
+.contact-me{
+    width:100%;
+    height:100%;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    text-align: center;
+}
+
+.btn{
+    margin: 100px;
+}
+.bottom-container{
+    display:inline-block;
+    width:100%;
+    height:100%;
+    padding-right: 80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color:#66BFBF;
+}
+.footer-link{
+    
+    color:#11999E;
+    font-family:'Montserrat', sans-serif;
+    font-size: 1rem;
+    text-decoration: none;
+    margin:20px;
+}
+.A{
+    color:#eaf6f6;
+    font-size: 0.75rem;
+    padding: 0px;
+    padding-top: 20px;
+}
+hr{
+    border:dotted #eaf6f6 6px;
+    border-bottom: none;
+    margin:100%,auto;
+    width:4%;
+}
+.pa{
+    width:30%
+    margin auto;
+}
+.GIT{
+    font-size: 2em;
+    padding-left: 22px;
+}
+.btn {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+    text-decoration: none;
+  }
+  .profile{
+    padding-top:30px;
+  }
+
+  .footer-link:hover{
+    color:#eaf6f6;
+  }
